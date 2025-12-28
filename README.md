@@ -6,7 +6,7 @@ This project focuses on clean UI design, responsiveness, and modern layout pract
 ---
 
 ## 🔗 Live Preview
-👉 [(GitHub Pages)](https://pritikandalkar-dev.github.io/E-Commerce-Website/)
+👉 [View Live on GitHub Pages: ](https://pritikandalkar-dev.github.io/E-Commerce-Website/)
 
 ---
 
