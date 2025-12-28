@@ -6,7 +6,7 @@ This project focuses on clean UI design, responsiveness, and modern layout pract
 ---
 
 ## 🔗 Live Preview
-👉 (Add your live link here – Netlify / GitHub Pages)
+👉 [(GitHub Pages)](https://pritikandalkar-dev.github.io/E-Commerce-Website/)
 
 ---
 
@@ -59,8 +59,3 @@ ModeMart is fully responsive and optimized for:
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/modemart.git
